@@ -34,12 +34,6 @@
     foaf:mbox <mailto:test@doe.com> ;
     .
     
-<https://orcid.org/0000-0000-0000-0000>
-    a foaf:Person ;
-    foaf:name "Mike Doe" ;
-    foaf:mbox <mailto:test@doe.com> ;
-    .
-    
 
 <https://joannagoley.github.io/joannagoley/test_bonrepo> rdf:type foaf:Project ;
     dc:title "Autonomous Reef Monitoring System" ;
