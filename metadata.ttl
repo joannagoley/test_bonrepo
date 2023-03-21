@@ -7,10 +7,10 @@
 <https://orcid.org/0000-0001-6387-5988>
     a foaf:Person ;
     foaf:name "Cedric Decruw" ;
-    foaf:mbox <mailto:cedricdecruw@doe.com> ;
+    foaf:mbox <mailto:cedricdecruw@vliz.com> ;
     .
     
-<https://orcid.org/0000-0000-0000-0000>
+<https://orcid.org/0000-0002-9648-6484>
     a foaf:Person ;
     foaf:name "Marc Portier" ;
     foaf:mbox <mailto:marc.portier@vliz.be> ;
@@ -25,13 +25,13 @@
 <https://orcid.org/0000-0003-0663-5907>
     a foaf:Person ;
     foaf:name "Laurian Van Maldeghem" ;
-    foaf:mbox <mailto:test@doe.com> ;
+    foaf:mbox <mailto:laurian.van.maldeghem@vliz.be> ;
     .
     
 <https://orcid.org/0000-0002-5934-8998>
     a foaf:Person ;
     foaf:name "Bram Ulrichts" ;
-    foaf:mbox <mailto:test@doe.com> ;
+    foaf:mbox <mailto:bram.ulrichts@vliz.be> ;
     .
     
 
