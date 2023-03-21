@@ -1,6 +1,6 @@
 [
     {
-      "class="fa-solid fa-cloud" style="color: #21437d;",      
+      "icon": "fa fa-colid fa-cloud",
       "name": "Observatory data",
       "text": "or the observatory coordinates."
     },
