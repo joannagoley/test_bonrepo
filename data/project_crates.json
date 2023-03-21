@@ -1,6 +1,6 @@
 [
     {
-      "icon": "fa fa-wordpress",
+      <i class="fa-solid fa-cloud" style="color: #21437d;"></i>      
       "name": "Observatory data",
       "text": "or the observatory coordinates."
     },
