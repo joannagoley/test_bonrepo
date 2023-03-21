@@ -1,6 +1,6 @@
 [
     {
-      <i class="fa-solid fa-cloud" style="color: #21437d;"></i>      
+      "class="fa-solid fa-cloud" style="color: #21437d;",      
       "name": "Observatory data",
       "text": "or the observatory coordinates."
     },
