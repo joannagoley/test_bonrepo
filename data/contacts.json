@@ -1,10 +1,10 @@
 [
     {
-        "img": "img/VLIZ_LOGO.png",
+        "img": "img/cedric_decruw.jpg",
         "name": "Cedric Decruw",
-        "job": "Corporate Directives Executive",
+        "job": "Open Science developer",
         "email": "cedricdecruw@doe.com",
-        "ORCID": "0000-0000-0000-0000",
+        "ORCID": "0000-0001-6387-5988",
         "affiliation": {
             "name": "University of Test",
             "id": "0000-0000-0000-0000",
@@ -12,23 +12,23 @@
         }
       },
       {
-        "img": "img/contacts/02.jpg",
+        "img": "img/marc_portier.jpg",
         "name": "Marc Portier",
         "job": "Team Lead",
         "email": "marc.portier@vliz.be",
         "ORCID": "0000-0000-0000-0000",
         "affiliation": {
             "name": "University of Test",
-            "id": "0000-0000-0000-0000",
+            "id": "0000-0002-9648-6484",
             "url": "http://www.test.com"
         }
       },
       {
-        "img": "img/contacts/03.jpg",
+        "img": "img/katrina_exter.jpg",
         "name": "Katrina Exter",
         "job": "Senior Science Officer",
         "email": "katrina.exter@vliz.be",
-        "ORCID": "0000-0000-0000-0000",
+        "ORCID": "0000-0002-5911-1536",
         "affiliation": {
             "name": "University of Test",
             "id": "0000-0000-0000-0000",
@@ -36,11 +36,11 @@
         }
       },
       {
-        "img": "img/contacts/04.jpg",
-        "name": "Dixie Normous",
-        "job": "Forward Configuration Analyst",
+        "img": "img/laurian_van_maldeghem.jpg",
+        "name": "Laurian Van Maldeghem",
+        "job": "Science Officer",
         "email": "test@doe.com",
-        "ORCID": "0000-0000-0000-0000",
+        "ORCID": "0000-0003-0663-5907",
         "affiliation": {
             "name": "University of Test",
             "id": "0000-0000-0000-0000",
@@ -48,11 +48,11 @@
         }
       },
       {
-        "img": "img/contacts/01.jpg",
-        "name": "Phil McCraken",
-        "job": "Interactive Operations Strategist",
+        "img": "img/bram_ulrichts.jpg",
+        "name": "Bram Ulrichts",
+        "job": "Open Science Developer",
         "email": "test@doe.com",
-        "ORCID": "0000-0000-0000-0000",
+        "ORCID": "0000-0002-5934-8998",
         "affiliation": {
             "name": "University of Test",
             "id": "0000-0000-0000-0000",
