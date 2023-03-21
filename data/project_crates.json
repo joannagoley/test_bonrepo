@@ -5,7 +5,7 @@
       "text": "or the observatory coordinates."
     },
     {
-      "icon": "fa fa-cart-arrow-down",
+      "icon": "fa-solid fa-circle-nodes",
       "name": "Sampling event data",
       "text": "for the metadata of each sampling event."
     },
