@@ -1,6 +1,6 @@
 [
     {
-        "img": "img/cedric_decruw.jpg",
+        "img": "img/contacts/cedric_decruw.jpg",
         "name": "Cedric Decruw",
         "job": "Open Science developer",
         "email": "cedricdecruw@vliz.com",
@@ -12,7 +12,7 @@
         }
       },
       {
-        "img": "img/marc_portier.jpg",
+        "img": "img/contacts/marc_portier.jpg",
         "name": "Marc Portier",
         "job": "Team Lead",
         "email": "marc.portier@vliz.be",
@@ -24,7 +24,7 @@
         }
       },
       {
-        "img": "img/katrina_exter.jpg",
+        "img": "img/contacts/katrina_exter.jpg",
         "name": "Katrina Exter",
         "job": "Senior Science Officer",
         "email": "katrina.exter@vliz.be",
@@ -36,7 +36,7 @@
         }
       },
       {
-        "img": "img/laurian_van_maldeghem.jpg",
+        "img": "img/contacts/laurian_van_maldeghem.jpg",
         "name": "Laurian Van Maldeghem",
         "job": "Science Officer",
         "email": "laurian.van.maldeghem@vliz.be",
@@ -48,7 +48,7 @@
         }
       },
       {
-        "img": "img/bram_ulrichts.jpg",
+        "img": "img/contacts/bram_ulrichts.jpg",
         "name": "Bram Ulrichts",
         "job": "Open Science Developer",
         "email": "bram.ulrichts@vliz.be",
